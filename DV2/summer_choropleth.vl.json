@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": "Summer Olympics"},
+  "title": {"text": "Summer Olympics","fontSize":22},
   "width": "container",
   "height": 300,
   "projection": {"type": "equalEarth"},
