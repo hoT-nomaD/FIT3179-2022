@@ -47,18 +47,16 @@
       "type": "nominal",
       "scale": {
         "range": [
-          "#e41a1c",
           "#377eb8",
           "#4daf4a",
           "#984ea3",
-          "#ff7f00",
-          "#ffff33"
+          "#ff7f00"
         ]
       }
     },
     "opacity": {
-      "condition": {"selection": "continent_highlight", "value": 0.6},
-      "value": 0.2
+      "condition": {"selection": "continent_highlight", "value": 0.8},
+      "value": 0.1
     },
     "size": {"value": 60},
     "tooltip": [
@@ -76,6 +74,5 @@
         "format": ","
       }
     ]
-  },
-  "config": {}
+  }
 }
